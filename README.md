@@ -1,6 +1,6 @@
 # examen-final-mysql2
 # Disparador Basico.
-#  Objetivo;
+#  Objetivo:
 Crear un trigger que, al insertar una nueva membresía, calcule y complete automáticamente la fecha de vencimiento sumando 30 días a la fecha de inicio.
 
 # Como se desarrollo el objetivo:
